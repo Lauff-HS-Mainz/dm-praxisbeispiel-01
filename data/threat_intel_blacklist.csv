@@ -1,0 +1,6 @@
+Domain,Threat_Type,Risk_Level
+malicious-site.ru,Malware_Distribution,High
+bad-ransomware-c2.net,Command_and_Control,Critical
+phishing-bank-login.updates-secure.com,Phishing,Medium
+download-malware.cc,Malware_Distribution,High
+test-crypto-miner.org,Cryptomining,Low
